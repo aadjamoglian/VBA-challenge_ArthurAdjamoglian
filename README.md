@@ -6,8 +6,7 @@ You are well on your way to becoming a programmer and Excel master! This projeac
 
 ### Files
 
-* [Stock Data](Multiple_year_stock_data_ArthurAdjamoglian.xlsx) - Ran the scripts on this data to generate the final report.
-
+* [Data](Multiple_year_stock_data_ArthurAdjamoglian.xlsm) - Used this data to run scripts and generate reports.
 
 ### Stock market analyst
 
